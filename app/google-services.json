@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "250615779788",
+    "firebase_url": "https://original-return-235615.firebaseio.com",
+    "project_id": "original-return-235615",
+    "storage_bucket": "original-return-235615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250615779788:android:1f094f3d1d56673a270d69",
+        "android_client_info": {
+          "package_name": "com.kev.wanderi.bodaap01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlH2EMtG59Mw6fIdJOSFD3kVGpjemukY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250615779788:android:1408cd3fdcbaee74270d69",
+        "android_client_info": {
+          "package_name": "com.kev.wanderi.gui1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlH2EMtG59Mw6fIdJOSFD3kVGpjemukY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250615779788:android:9524826170fc60e6270d69",
+        "android_client_info": {
+          "package_name": "com.kev.wanderi.kinda01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlH2EMtG59Mw6fIdJOSFD3kVGpjemukY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250615779788-ulhdndpq5u8pvkn6978ljmg6b25ie0rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
